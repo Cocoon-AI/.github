@@ -27,11 +27,11 @@ Cocoon AI is a Public Benefit Corporation that helps ambitious organizations get
 
 [See the engagements →](https://cocoon-ai.com)
 
-## Open source
+## Public repositories
 
-The repositories on this page are tools we build for our own work and share publicly. We open-source what we can because the AI ecosystem moves faster when good infrastructure isn't locked behind a vendor.
+The repos below are a small slice of our work — a few internal tools we've been able to share publicly. Most of what we build lives inside client engagements. As we're able to release more, this is where it'll show up.
 
-If any of it is useful to you, [sponsor us on GitHub](https://github.com/sponsors/Cocoon-AI) — sponsorship goes directly toward maintaining these repos and underwriting more open releases.
+If our work is useful to you, [sponsor us on GitHub](https://github.com/sponsors/Cocoon-AI).
 
 ---
 
