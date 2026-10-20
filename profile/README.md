@@ -31,6 +31,11 @@ Advisors and doers, from boardroom to production.
 - **Senior-led.** Senior judgment and senior delivery from the same team.
 - **Partner, not vendor.** Ongoing care for the systems we ship, from the people who shipped them.
 
+## What we stand for
+
+- **Data sovereignty.** Your data stays yours. We design systems where you own and control the models, embeddings, and pipelines that touch it — not a vendor whose pricing or policies can change next quarter.
+- **Privacy by default.** No surprise telemetry, no quiet retention, no third-party training on your inputs.
+
 ## Engagements
 
 | Engagement | What it is |
